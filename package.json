@@ -1,0 +1,19 @@
+{
+  "name": "synchroscope-simulator",
+  "version": "1.0.0",
+  "description": "simulate synchroscope function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanliwag/synchroscope-simulator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanliwag/synchroscope-simulator/issues"
+  },
+  "homepage": "https://github.com/ryanliwag/synchroscope-simulator#readme"
+}
