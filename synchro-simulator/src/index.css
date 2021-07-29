@@ -1,0 +1,19 @@
+ body{
+  background:grey;
+}
+
+
+.center {
+  width: 10px; height: 10px; position: absolute; left: 295px; top: 295px;
+}
+li {
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margins */
+
+  width: 0.5vw;
+  height: 0.5vw;
+  background: yellow;
+  border-radius: 100%;
+  position: absolute;
+}
